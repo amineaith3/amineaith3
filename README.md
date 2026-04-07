@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/amineaith3?theme=unicorn&font=Bigelow%20Rules)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sakuun-aah?theme=unicorn&font=Bigelow%20Rules)
