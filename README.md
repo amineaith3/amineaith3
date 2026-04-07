@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Here are my leetcode stats:
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sakuun-aah?theme=dark&font=ABeeZee)
