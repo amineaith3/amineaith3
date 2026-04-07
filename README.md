@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sakuun-aah?theme=unicorn&font=Bigelow%20Rules)
+Here are my leetcode stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/sakuun-aah?theme=dark&font=ABeeZee)
